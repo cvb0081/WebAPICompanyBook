@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPIBook</name>
+    </assembly>
+    <members>
+        <member name="M:WebAPIBook.CompaniesController.GetCompanies">
+            <summary>
+            Gets list of all companies
+            </summary>
+            <returns>Companies List</returns>
+        </member>
+    </members>
+</doc>
